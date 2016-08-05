@@ -1,0 +1,28 @@
+_repo: God-and-my-Neighbour_6172
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Blatchford, Robert
+    aliases:
+    - Macginnis, P.
+    - McGinnis, P.
+    birthdate: 1851
+    deathdate: 1943
+    gutenberg_agent_id: '1983'
+    url: http://www.gutenberg.org/2009/agents/1983
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Blatchford
+description: ''
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6172'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Agnosticism'
+- !lcc 'BL'
+- GITenberg
+title: God and my Neighbour
+url: http://www.gutenberg.org/ebooks/6172
